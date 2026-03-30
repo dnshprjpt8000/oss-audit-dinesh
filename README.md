@@ -1,14 +1,4 @@
-# oss-audit-[rollnumber]
 
-# 🔍 The Open Source Audit — Git
-
-**Course:** Open Source Software (OSS NGMC)
-**Student Name:** ________________________________
-**Registration Number:** ________________________________
-**Chosen Software:** Git — Distributed Version Control System
-**License:** GNU General Public License v2 (GPL v2)
-
----
 
 ## 📖 About This Project
 
